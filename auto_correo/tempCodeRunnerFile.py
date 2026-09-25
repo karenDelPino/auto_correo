@@ -1,1 +1,0 @@
-C:\Administracion\Comprobantes_Pendientes
