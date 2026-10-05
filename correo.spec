@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['c:/Users/karen/OneDrive/Documentos/GitHub/autocorreo/correo.py'],
+    ['correo.py'],
     pathex=[],
     binaries=[],
     datas=[],

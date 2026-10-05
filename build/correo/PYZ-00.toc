@@ -1,4 +1,4 @@
-('C:\\Users\\karen\\OneDrive\\Documentos\\GitHub\\autocorreo\\build\\correo\\PYZ-00.pyz',
+('C:\\Users\\karen\\OneDrive\\Documentos\\GitHub\\auto_correo\\build\\correo\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
@@ -335,6 +335,21 @@
   ('doctest',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('dotenv',
+   'C:\\Users\\karen\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\dotenv\\__init__.py',
+   'PYMODULE'),
+  ('dotenv.ipython',
+   'C:\\Users\\karen\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\dotenv\\ipython.py',
+   'PYMODULE'),
+  ('dotenv.main',
+   'C:\\Users\\karen\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\dotenv\\main.py',
+   'PYMODULE'),
+  ('dotenv.parser',
+   'C:\\Users\\karen\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\dotenv\\parser.py',
+   'PYMODULE'),
+  ('dotenv.variables',
+   'C:\\Users\\karen\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\dotenv\\variables.py',
    'PYMODULE'),
   ('email',
    'C:\\Program '
